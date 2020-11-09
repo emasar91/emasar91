@@ -4,7 +4,7 @@
 ### Hola 👋
 Soy Emanuel Sarco, desarrollador web.\
 Soy estudiante universitario de la carrera de Licenciatura en Sistemas en la UNGS\
-Actualmente estoy terminando un bootcamp full stack en Henry
+Graduado de Henry (bootcamp full stack en JavaScript) 
 https://www.soyhenry.com/
 
 ### Me gusta aprender tecnologías nuevas
