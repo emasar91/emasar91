@@ -2,35 +2,12 @@
 
 
 ### Hola 👋
-Soy Emanuel Sarco, desarrollador web.\
-Soy estudiante universitario de la carrera de Licenciatura en Sistemas en la UNGS\
-Graduado de Henry (bootcamp full stack en JavaScript) 
-https://www.soyhenry.com/
+Soy Emanuel Sarco, software con 4 años de experiencia en el desarrollo de aplicaciones web, utilizando 
+tecnologías como JavaScript, TypeScript, React.js, Next.js, MongoDB, Express y Node.js. Apasionado 
+por el aprendizaje continuo y el trabajo en equipo, me especializo en la optimización y creación de 
+proyectos web innovadores.
 
-### Me gusta aprender tecnologías nuevas
-Las tecnologias que conozco son: \
-SQL |
-Java |
-PHP |
-HTML5 |
-JavaScript |
-CSS |
-React.js |
-AJAX |
-JSON |
-Node.js |
-LESS |
-SASS |
-Bootstrap |
-PostgreSQL |
-jQuery |
-Git |
-GitHub |
-Express.js |
-Axios |
-Redux |
-Interfaz de programación de aplicaciones (API) |
-Web Services API |
+
 
 ### Me gusta trabajar en equipo y poder aprender de mis compañeros
 
