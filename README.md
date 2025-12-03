@@ -2,8 +2,8 @@
 
 
 ### Hola 👋
-Soy Emanuel Sarco, software con 4 años de experiencia en el desarrollo de aplicaciones web, utilizando 
-tecnologías como JavaScript, TypeScript, React.js, Next.js, MongoDB, Express y Node.js. Apasionado 
+Soy Emanuel Sarco, software con 5 años de experiencia en el desarrollo de aplicaciones web, utilizando 
+tecnologías como JavaScript, TypeScript, React.js, Next.js. Apasionado 
 por el aprendizaje continuo y el trabajo en equipo, me especializo en la optimización y creación de 
 proyectos web innovadores.
 
